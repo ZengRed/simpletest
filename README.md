@@ -1,2 +1,2 @@
-local to server
+server to local
 ==========
